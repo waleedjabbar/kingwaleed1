@@ -3,8 +3,6 @@
 - 🌱 I’m currently learning  reactjs , python, data science, machine learning  numpy scipy etc
 - 💞️ I’m looking to collaborate on anything interest me 
 - 📫 How to reach me www.xuxee.com/contact
-  Pakistan Upcoming biggest noodles store @ https://noodles.pk/ Stay for update
-  twitter.com/waleed_munsha
-
+ 
 <!---
 
